@@ -1,0 +1,67 @@
+{
+  "TOPOLOGY_SECTION_TOPOLOGY": "Topology",
+  "TOPOLOGY_SECTION_FLOORPLAN": "Floorplan",
+
+  "TOPOLOGY_FILTER_SHOW_ALL_DEVICES": "Show All Devices",
+  
+  "TOPOLOGY_FILTER_CLIENTS": "Clients",
+  "TOPOLOGY_FILTER_SHOW_ALL_CLIENTS": "Show All Clients",
+  "TOPOLOGY_FILTER_SHOW_2G_CLIENTS": "2.4 GHz WiFi",
+  "TOPOLOGY_FILTER_SHOW_5G_CLIENTS": "5 GHz WiFi",
+  "TOPOLOGY_FILTER_SHOW_WIRED": "Wired",
+
+  "TOPOLOGY_FILTER_DESCRIPTION": "Description",
+  "TOPOLOGY_FILTER_SHOW_ALL_DESCRIPTIONS": "Show All Descriptions",
+  "TOPOLOGY_FILTER_SHOW_SSID": "SSID",
+  "TOPOLOGY_FILTER_SHOW_WIFI_EXPERIENCE": "WiFi Experience",
+  "TOPOLOGY_FILTER_SHOW_RADIO_CHANNEL":"Channel",
+  "TOPOLOGY_FILTER_SHOW_WIFI_STANDARDS": "WiFi Standards",
+  "TOPOLOGY_FILTER_SHOW_WIRED_SPEED":"Speed",
+  "TOPOLOGY_FILTER_SHOW_WIRED_PORTS":"Port in / Port out",
+
+  "TOPOLOGY_FILTER_CAPTION_WIRELESS": "Wireless",
+  "TOPOLOGY_FILTER_CAPTION_WIRED":"Wired",
+
+  "TOPOLOGY_FILTER_BUTTON_LABEL": "Display Options",
+
+  "TOPOLOGY_FLOORPLAN_TITLE": "Coming Soon",
+  "TOPOLOGY_FLOORPLAN_SENTENCE_1": "Floorplan functionality is still available on the legacy version of the Maps page.",
+  "TOPOLOGY_FLOORPLAN_SENTENCE_2": "Click Go To Settings and revert to the old Maps page.",
+  "TOPOLOGY_FLOORPLAN_SENTENCE_3": "Or, try our UniFi Design Center at ",
+  "TOPOLOGY_FLOORPLAN_DESIGN_URL":"Design.UI.com",
+  "TOPOLOGY_FLOORPLAN_SETTINGS_LINK": "Go to Settings",
+  "TOPOLOGY_FLOORPLAN_VISIT_LINK": "Visit UniFi Design Center",
+
+  "TOPOLOGY_FILTER_STATUS": "Status",
+  "TOPOLOGY_FILTER_STATUS_ONLINE": "Online",
+  "TOPOLOGY_FILTER_STATUS_OFFLINE": "Offline",
+  "TOPOLOGY_FILTER_STATUS_ISOLATED": "Isolated",
+  "TOPOLOGY_FILTER_STATUS_PENDING_ADOPTION": "Pending adoption",
+  "TOPOLOGY_FILTER_STATUS_MANAGED_BY_ANOTHER_CONSOLE": "Managed by another <br> console",
+
+  "TOPOLOGY_CREATE_IOT_NETWORK": "Create IoT Network",
+  "TOPOLOGY_MANAGE_IOT_NETWORK": "Manage IoT Network",
+
+  "TOPOLOGY_IOT_MANAGEMENT": "IoT Network Management",
+  "TOPOLOGY_IOT_ENABLE_NETWORK": "Enable Network",
+  "TOPOLOGY_IOT_INTERNET_ACCESS": "Internet Access",
+  "TOPOLOGY_IOT_INTRA_NET_ACCESS": "Intra-Network Access",
+  "TOPOLOGY_IOT_INTRA_NET_DESCRIPTION": "@TODO SHOULD ADD DECSRIPTION WHAT IS HAPPENING",
+  "TOPOLOGY_IOT_SELECT_DEVICES": "Select devices in Topology you want to add to your IoT Network.",
+  "TOPOLOGY_IOT_SELECTED_DEVICES_COUNT": "{count} {count, plural, one {device} other {devices}} selected",
+  "TOPOLOGY_IOT_CLEAR_ALL": "Clear All",
+  "TOPOLOGY_IOT_UPDATE_NETWORK": "Update IoT Network",
+  "TOPOLOGY_IOT_NETWORKS_TITLE": "Networks",
+  "TOPOLOGY_IOT_NETWORKS_DESC": "Select Wired Networks that will access your IoT Devices.",
+  "TOPOLOGY_IOT_TOAST_CREATE_SUCCESS": "IoT Network has been successfully created.",
+  "TOPOLOGY_IOT_TOAST_CREATE_FAIL": "Couldn't create IoT Network. Please try again later.",
+  "TOPOLOGY_IOT_TOAST_UPDATE_SUCCESS": "IoT Network has been successfully updated.",
+  "TOPOLOGY_IOT_TOAST_UPDATE_FAIL": "Couldn't update IoT Network. Please try again later.",
+  "TOPOLOGY_IOT_CONNECT_DEVICE_TO_USW": "Device needs to be connected to supported UniFi Switch or AP. <a href={link} target='_blank'>Learn More.</a>",
+
+  "TOPOLOGY_NO_DEVICES_TITLE": "No UniFi devices have been adopted",
+  "TOPOLOGY_NO_DEVICES_DESCRIPTION": "Please ensure that your UniFi devices are on and have been adopted with this UniFi OS Console.",
+
+  "TOPOLOGY_NO_MATCH_IN_FILTERS_TITLE": "We couldn't find a match",
+  "TOPOLOGY_NO_MATCH_IN_FILTERS_DESCRIPTION": "We couldn't find a UniFi or client device that fit your criteria. Please adjust your Display Options and try again, or remove them to see all connected UniFi devices and clients."
+}
